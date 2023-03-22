@@ -4,9 +4,19 @@
 }
 
 
-.Funeraria Do Yorick(
+.cabecalho{
 	display: flex;
-	background-color:6D287E ;    
+	background-color: #6D287E;  
+	color: white;  
+	justify-content: space-around;
+	align-items: center;
+}
 
+.cabecalho-Lista__Item{
+	display: inline-block;
+}
 
-)
+.cabecalho-Lista{
+	margin: 50px;
+	font-size: 30px;
+}
